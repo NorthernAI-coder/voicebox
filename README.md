@@ -1,3 +1,7 @@
+> [!NOTE]
+> NorthernAI fork note (2026-06-28): This fork tracks upstream $(System.Collections.Hashtable.upstream) for $(System.Collections.Hashtable.product). Upstream license and attribution remain intact. NorthernAI commercialization layers should use a free local/base tier plus paid hosted/team workflows around NorthernAI-owned integration code.
+>
+> Upstream: https://github.com/jamiepine/voicebox
 <p align="center">
   <img src=".github/assets/icon-dark.webp" alt="Voicebox" width="120" height="120" />
 </p>
